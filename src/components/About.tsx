@@ -28,7 +28,7 @@ I am always eager to expand my knowledge, stay updated with the latest advanceme
 and explore innovative solutions that drive the future of technology.  
 
 I thrive on challenges and enjoy **collaborating with like-minded individuals**  
-who share a passion for learning and innovation. Whether it's building modern web  
+who share a passion for learning and innovation. Whether it&apos;s building modern web  
 applications, working with AI-driven solutions, or diving into the decentralized  
 world of Web3, I am always ready to push boundaries and enhance my skills.  
 
